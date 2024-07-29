@@ -1,0 +1,4 @@
+Criar um bot que vai usar dados de uma planilha e jogar em um site web
+
+*Atenção
+Uso de biblioteca PyAutoGUI, ao invés do Selenium
